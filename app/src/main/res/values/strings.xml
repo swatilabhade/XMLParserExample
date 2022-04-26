@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XMLParserExample</string>
+    <string name="submit">Submit</string>
+    <string name="url">e.g. https://www.google.com</string>
+    <string name="empty_response">Response does not contain any data</string>
+    <string name="progressbar_text">Please wait..</string>
+    <string name="content_desc">Item Logo</string>
+</resources>
